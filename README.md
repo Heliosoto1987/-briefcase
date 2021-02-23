@@ -1,5 +1,5 @@
 Portafolio de Helio Soto
-Proyecto realizado por helio soto, donde muestro algunos de los proyectos que he realizado en el transcurrir de mis estudios...
+Proyecto realizado por helio soto, donde muestro algunos de los proyectos que he hecho en el transcurrir de mis estudios...
 
 Instrucciones para tener una copia del proyecto;
 Clona el repositorio del proyecto.
