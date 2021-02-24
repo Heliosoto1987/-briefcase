@@ -2,12 +2,6 @@ Portafolio de Helio Soto
 
 Realizado por helio soto, donde muestro algunos de los proyectos que he hecho en el transcurrir de mis estudios...
 
-Instrucciones para tener una copia del proyecto;
-Clona el repositorio del proyecto.
-Ejecuta npm install para instalar todas las librerías utilizadas.
-Visualiza el proyecto en el navegador con npm start.
-¡ Listo !
-
 Desarrollado con:
 React - Framework de JavaScript
 React Hooks
