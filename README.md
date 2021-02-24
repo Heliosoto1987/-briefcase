@@ -9,5 +9,3 @@ React Router
 React useReducer - Proyecto TodoApp
 Javascript - Proyectos starwars y adivina el numero.
 
-Código Abierto
-Si te interesa alguno de mis proyectos, estoy encantado de recibir cualquier sugerencia por los issues o si quieren desarrollarlo más ¡adelante!
